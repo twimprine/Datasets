@@ -1,0 +1,710 @@
+[
+    {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "population": {
+          "estimates": {
+            "2019": 4903185
+          },
+          "census": {
+            "2010": 4779736
+          }
+        }
+    },
+    {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "population": {
+          "estimates": {
+            "2019": 731545
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "American Samoa",
+        "abbreviation": "AS",
+        "population": {
+          "estimates": {
+            "2019": 55641
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "population": {
+          "estimates": {
+            "2019": 7278717
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "population": {
+          "estimates": {
+            "2019": 3017825
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "California",
+        "abbreviation": "CA",
+        "population": {
+          "estimates": {
+            "2019": 39512223
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "population": {
+          "estimates": {
+            "2019": 5758736
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "population": {
+          "estimates": {
+            "2019": 3565287
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "population": {
+          "estimates": {
+            "2019": 973764
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "District Of Columbia",
+        "abbreviation": "DC",
+        "population": {
+          "estimates": {
+            "2019": 705749
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Federated States Of Micronesia",
+        "abbreviation": "FM",
+        "population": {
+          "estimates": {
+            "2019": 0
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Florida",
+        "abbreviation": "FL",
+        "population": {
+          "estimates": {
+            "2019": 21477737
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "population": {
+          "estimates": {
+            "2019": 10617423
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Guam",
+        "abbreviation": "GU",
+        "population": {
+          "estimates": {
+            "2019": 165718
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Hawaii",
+        "abbreviation": "HI",
+        "population": {
+          "estimates": {
+            "2019": 1415872
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "population": {
+          "estimates": {
+            "2019": 1787065
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "population": {
+          "estimates": {
+            "2019": 12671821
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "population": {
+          "estimates": {
+            "2019": 6732219
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "population": {
+          "estimates": {
+            "2019": 3155070
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "population": {
+          "estimates": {
+            "2019": 2913314
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "population": {
+          "estimates": {
+            "2019": 4467673
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "population": {
+          "estimates": {
+            "2019": 4648794
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Maine",
+        "abbreviation": "ME",
+        "population": {
+          "estimates": {
+            "2019": 1344212
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Marshall Islands",
+        "abbreviation": "MH",
+        "population": {
+          "estimates": {
+            "2019": 0
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "population": {
+          "estimates": {
+            "2019": 6045680
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "population": {
+          "estimates": {
+            "2019": 6949503
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "population": {
+          "estimates": {
+            "2019": 9986857
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "population": {
+          "estimates": {
+            "2019": 5639632
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "population": {
+          "estimates": {
+            "2019": 2976149
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "population": {
+          "estimates": {
+            "2019": 6137428
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Montana",
+        "abbreviation": "MT",
+        "population": {
+          "estimates": {
+            "2019": 1068778
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "population": {
+          "estimates": {
+            "2019": 1934408
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "population": {
+          "estimates": {
+            "2019": 3080156
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "population": {
+          "estimates": {
+            "2019": 1359711
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "population": {
+          "estimates": {
+            "2019": 8882190
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "population": {
+          "estimates": {
+            "2019": 2096829
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "New York",
+        "abbreviation": "NY",
+        "population": {
+          "estimates": {
+            "2019": 19453561
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "population": {
+          "estimates": {
+            "2019": 10488084
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "population": {
+          "estimates": {
+            "2019": 762062
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "abbreviation": "MP",
+        "population": {
+          "estimates": {
+            "2019": 55194
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "population": {
+          "estimates": {
+            "2019": 11689100
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "population": {
+          "estimates": {
+            "2019": 3956971
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "population": {
+          "estimates": {
+            "2019": 4217737
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Palau",
+        "abbreviation": "PW",
+        "population": {
+          "estimates": {
+            "2019": 0
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "population": {
+          "estimates": {
+            "2019": 12801989
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Puerto Rico",
+        "abbreviation": "PR",
+        "population": {
+          "estimates": {
+            "2019": 3193694
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "population": {
+          "estimates": {
+            "2019": 1059361
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "population": {
+          "estimates": {
+            "2019": 5148714
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "population": {
+          "estimates": {
+            "2019": 884659
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "population": {
+          "estimates": {
+            "2019": 6833174
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Texas",
+        "abbreviation": "TX",
+        "population": {
+          "estimates": {
+            "2019": 28995881
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Utah",
+        "abbreviation": "UT",
+        "population": {
+          "estimates": {
+            "2019": 3205958
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "population": {
+          "estimates": {
+            "2019": 623989
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Virgin Islands",
+        "abbreviation": "VI",
+        "population": {
+          "estimates": {
+            "2019": 104914
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "population": {
+          "estimates": {
+            "2019": 8535519
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Washington",
+        "abbreviation": "WA",
+        "population": {
+          "estimates": {
+            "2019": 7614893
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "West Virginia",
+        "abbreviation": "WV",
+        "population": {
+          "estimates": {
+            "2019": 1792147
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "population": {
+          "estimates": {
+            "2019": 5822434
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    },
+    {
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "population": {
+          "estimates": {
+            "2019": 578759
+          },
+          "census": {
+            "2010": 0
+          }
+        }
+    }
+]
